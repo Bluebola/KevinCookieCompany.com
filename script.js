@@ -19,3 +19,6 @@ fakeRequestPromise('www.getAPIhere.com/page1')
     .catch(() => {
         console.log ('shag bro it failed')
     })
+
+
+    alert ('YOLO SWAG')
