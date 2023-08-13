@@ -22,3 +22,15 @@ fakeRequestPromise('www.getAPIhere.com/page1')
 
 
     alert ('YOLO SWAG')
+
+
+    const fakeRequest = (url) => {
+        return new Promise((resolve, reject) => {
+            if (x>0) {
+                resolve()
+            }
+            else (
+                reject()
+            )
+        })
+    }
